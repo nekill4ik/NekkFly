@@ -1,0 +1,19 @@
+#Плагин написан NekkStudios (Оформить заказ в телеграм - https://t.me/nekkstudiobot || Юз - @nekkstudiobot)
+
+# Нету элитры при использовании команды
+dont-have-elytra: "§cYou don't have elytra on you!"
+
+# Включение полета
+fly-enable: "§aFly enable"
+
+# Выключение полета
+fly-disable: "§cFly disable"
+
+# Нету элитры во время полета
+no-elytra-on-flying: "§cYou can't fly without Elytra!"
+
+# Нету права nekkfly.admin
+no-permissions: "§cno perm."
+
+# Конфиг перезагружен
+config-reloaded: "§aConfig reloaded!"

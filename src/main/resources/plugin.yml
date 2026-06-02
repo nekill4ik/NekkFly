@@ -1,0 +1,22 @@
+name: NekkFly
+version: '${version}'
+main: ru.nekill.nekkfly.NekkFly
+author: "nekillka"
+api-version: '1.16'
+
+commands:
+  fly:
+    description: режим полета
+    name: fly
+    aliases:
+      - flying
+    permission: nekkfly.fly
+    permission-message: §cno perm.
+    usage: /fly
+
+  nekkfly:
+    description: admin commands
+    name: nekkfly
+    permission: nekkfly.reload
+    permission-message: §cno perm.
+    usage: /nekkfly <reload>
